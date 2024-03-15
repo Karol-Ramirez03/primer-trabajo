@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Caveat:wght@400..700&family=Kalam:wght@300;400;700&family=Shadows+Into+Light&display=swap');
+*{
+    border: 0%;
+    padding: 0%;
+    background-color: #D79D9D;
+     
+}
+h1{
+    font-family:"Shadows Into Light", sans-serif ;
+    background-color: #D7ADAD;
+    overflow: hidden;
+    border-top: 2px  solid #836060;
+    border-bottom: 2px  solid #836060;
+
+
+}
+
+h2{
+    font-family:"Shadows Into Light", sans-serif ;
+    background-color: #D7ADAD;
+    overflow: hidden;
+    border-top: 2px  solid #836060;
+    border-bottom: 2px  solid #836060;
+
+
+}
+p{
+    font-family:"Kalam", sans-serif ;
+    overflow: hidden;
+}
+
+img{
+    padding: 2%  ; 
+    border-radius: 50%;
+    width: 50%;
+    height: auto;
+    background-color: #D7ADAD;
+
+
+}
+
+.columna .imagenlogos img, a{
+    padding: 0% 0% 3%;
+    vertical-align: middle;
+    width: 37%;
+    display: inline-block;
+    
+
+}
+
+a:visited {
+    color: #AF7070;
+    background-color: transparent;
+    text-decoration: none;
+}
+hr{
+    width: 80%;
+    margin: 0 auto;
+    border: 2px solid #D7ADAD;
+}
+
+.uno{
+    display: flex;
+}
+.columna{
+    width: 33%;
+    height: auto;
+    margin-right: 1%;
+    float: left;
+    border: solid #836060;
+    text-align: center;
+
+}
+
+
+.logros  {
+    
+    background-color: #D7ADAD;
+    margin: 0% 10%;
+    border: solid #836060;
+    
+}
+.logros p  {
+    
+    background-color: #D7ADAD;
+  
+
+}
+.logros b  {
+    
+    background-color: #D7ADAD;
+  
+
+}
